@@ -18,7 +18,7 @@ public class Matematicas {
     }
     
     public double getNota() {
-        return nota;
+        return nota + 10;
     }
 
     public void setNota(double nota) {
